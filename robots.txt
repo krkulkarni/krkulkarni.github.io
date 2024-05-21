@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://krkulkarni.github.io//sitemap.xml
