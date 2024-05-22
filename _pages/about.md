@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I received my PhD Center for Computational Psychiatry at the Icahn School of Medicine at Mount Sinai in the field of computational psychiatry with a focus on addictive disorders. I completed my bachelor's degree at Rutgers University, New Brunswick with a major in Cell Biology & Neuroscience and minors in Computer Science and Philosophy.
+I received my PhD at the Center for Computational Psychiatry at the Icahn School of Medicine at Mount Sinai in the field of computational psychiatry with a focus on addictive disorders. I completed my bachelor's degree at Rutgers University, New Brunswick with a major in Cell Biology & Neuroscience and minors in Computer Science and Philosophy.
 
 Broadly, I am interested in understanding the dynamics of brain architecture in psychiatric disorders by studying the underlying cognitive, emotional and social processes. My research utilizes computational and statistical modeling to uncover and characterize the hidden variables responsible for maladaptive states in these disorders.
 
