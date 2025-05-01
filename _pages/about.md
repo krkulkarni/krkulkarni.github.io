@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: MD/PhD student · Medical Scientist Training Program · Icahn School of Medicine at Mount Sinai
+subtitle: PGY-1 Psychiatry Resident · Neuroscience Research Training Program (NRTP) · Yale University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1470 Madison Ave</p>
-    <p>New York, NY 10029</p>
+    <p>300 George St</p>
+    <p>New Haven, CT 06511</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I received my PhD at the Center for Computational Psychiatry at the Icahn School of Medicine at Mount Sinai in the field of computational psychiatry with a focus on addictive disorders. I completed my bachelor's degree at Rutgers University, New Brunswick with a major in Cell Biology & Neuroscience and minors in Computer Science and Philosophy.
+I am an incoming PGY-1 research track resident at Yale University in the Neuroscience Research Training Program (NRTP). I received my MD and PhD at the Icahn School of Medicine at Mount Sinai, conducting research at the Center for Computational Psychiatry  with a focus on craving and decision-making mechanisms in addictive disorders. I completed my bachelor's degree at Rutgers University, New Brunswick with a major in Cell Biology & Neuroscience and minors in Computer Science and Philosophy.
 
 Broadly, I am interested in understanding the dynamics of brain architecture in psychiatric disorders by studying the underlying cognitive, emotional and social processes. My research utilizes computational and statistical modeling to uncover and characterize the hidden variables responsible for maladaptive states in these disorders.
 
