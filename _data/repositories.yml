@@ -2,6 +2,7 @@ github_users:
   - krkulkarni
 
 github_repos:
+  - krkulkarni/emlib
   - krkulkarni/bayesian-decision-models
-  - krkulkarni/cannabis-classifier
+  - krkulkarni/multiclassifier_repo
   - krkulkarni/fmriprepPipeline
