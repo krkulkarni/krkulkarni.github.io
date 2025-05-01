@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PGY-1 Psychiatry Resident · Neuroscience Research Training Program (NRTP) · Yale University
+subtitle: Psychiatry Resident · Yale University
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming PGY-1 research track resident at Yale University in the Neuroscience Research Training Program (NRTP). I received my MD and PhD at the Icahn School of Medicine at Mount Sinai, conducting research at the Center for Computational Psychiatry  with a focus on craving and decision-making mechanisms in addictive disorders. I completed my bachelor's degree at Rutgers University, New Brunswick with a major in Cell Biology & Neuroscience and minors in Computer Science and Philosophy.
+I am an incoming PGY-1 resident in the Neuroscience Research Training Program (NRTP) at Yale University. I received my MD and PhD at the Icahn School of Medicine at Mount Sinai, conducting research at the Center for Computational Psychiatry with a focus on understanding mechanisms linking craving and decision-making in addictive disorders. I completed my bachelor's degree at Rutgers University, New Brunswick with a major in Cell Biology & Neuroscience and minors in Computer Science and Philosophy.
 
 Broadly, I am interested in understanding the dynamics of brain architecture in psychiatric disorders by studying the underlying cognitive, emotional and social processes. My research utilizes computational and statistical modeling to uncover and characterize the hidden variables responsible for maladaptive states in these disorders.
 

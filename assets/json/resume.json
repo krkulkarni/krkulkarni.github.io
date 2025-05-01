@@ -1,10 +1,7 @@
 {
   "basics": {
     "name": "Kaustubh R. Kulkarni",
-    "label": "Research Track Resident — Psychiatry",
     "image": "prof_pic.jpg",
-    "email": "mail@krkulkarni.com",
-    "url": "https://krkulkarni.github.io/",
     "summary": "PGY-1 Psychiatry Resident in the Neuroscience Research Training Program (NRTP) at Yale University.",
     "location": {
       "address": "300 George St",
@@ -27,9 +24,7 @@
       "position": "Research Track Resident — Psychiatry",
       "url": "https://medicine.yale.edu/psychiatry/research/training/nrtp/",
       "startDate": "2025-06-11",
-      "endDate": "2029-06-01",
-      "summary": "My PhD thesis was focused on investigating the latent behavioral and neurobiological patterns underlying decision-making and craving across addictive disorders using computational psychiatry approaches.",
-      "highlights": ["<b>Advisors</b>: Xiaosi Gu, PhD, and Daniela Schiller, PhD", "Utilized linear and non-linear machine learning to classify chronic users of cannabis, and graph theoretical methods to investigate neural patterns underlying chronic cannabis use", "Conceived and implemented novel computational models to investigate decision-making and craving in populations with addiction", "Revised and improved lab-standard maximum likelihood models of reinforcement learning to utilize Bayesian parameter estimation", "Implemented dynamical systems models to probe latent states underlying verbal free recall of traumatic memories in veterans with post-traumatic stress disorder", "Collected behavioral data using online platforms such as Prolific, as well as neural data such as functional MRI and intracranial EEG"]
+      "endDate": "2029-06-01"
     },
     {
       "name": "Icahn School of Medicine at Mount Sinai",
