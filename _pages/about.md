@@ -8,18 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>300 George St</p>
-    <p>New Haven, CT 06511</p>
+  # more_info: >
+  #   <p>300 George St</p>
+  #   <p>New Haven, CT 06511</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming PGY-1 resident in the Neuroscience Research Training Program (NRTP) at Yale University. I received my MD and PhD at the Icahn School of Medicine at Mount Sinai, conducting research at the Center for Computational Psychiatry with a focus on understanding mechanisms linking craving and decision-making in addictive disorders. I completed my bachelor's degree at Rutgers University, New Brunswick with a major in Cell Biology & Neuroscience and minors in Computer Science and Philosophy.
+I am a PGY-1 resident in the Neuroscience Research Training Program (NRTP) at Yale University. I received my MD and PhD at the Icahn School of Medicine at Mount Sinai, conducting research at the Center for Computational Psychiatry with a focus on understanding mechanisms linking craving and decision-making in addictive disorders. I completed my bachelor's degree at Rutgers University, New Brunswick with a major in Cell Biology & Neuroscience and minors in Computer Science and Philosophy.
 
-Broadly, I am interested in understanding the dynamics of brain architecture in psychiatric disorders by studying the underlying cognitive, emotional and social processes. My research utilizes computational and statistical modeling to uncover and characterize the hidden variables responsible for maladaptive states in these disorders.
+Broadly, I am interested in understanding cognitive, emotional and social processes involved in psychiatric disorders as well as the dynamics of brain functional architecture underlying these processes. My research utilizes computational and statistical modeling to uncover and characterize the hidden variables responsible for maladaptive states in these disorders.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
